@@ -1,0 +1,19 @@
+{
+  "name": "private-6mans-discord-bot",
+  "version": "1.0.0",
+  "description": "Create private lobbies/scrims for discord server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahi-Paneer/Private-6Mans-Discord-Bot.git"
+  },
+  "author": "Jaiden Shahi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shahi-Paneer/Private-6Mans-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/Shahi-Paneer/Private-6Mans-Discord-Bot#readme"
+}
